@@ -37,3 +37,7 @@ class Test {
         a2.m2();  // Output: Bm2  → Due to Non-Static Method
     }
 }
+
+
+
+Thank you for reading! I hope this explanation was helpful — keep learning and keep coding ✈️
