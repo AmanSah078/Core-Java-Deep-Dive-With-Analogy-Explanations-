@@ -10,10 +10,8 @@ Polymorphism = Poly (many) + Morphism (forms) → Ability of an object to take m
 ---
 
 ## 📂 Topics in This Folder
-
-- [Basic_Concept](Basic_Concept.md)
-- [Method Hiding](Method_Hiding.md)
--[InterviewQuestionRelated_TO_Polymorphism](InterviewQuestionRelated_TO_Polymorphism.md)
----
+- [Basic_Concept](Basic_Concept.md)  
+- [Method Hiding](Method_Hiding.md)  
+- [InterviewQuestionRelated_TO_Polymorphism](InterviewQuestionRelated_TO_Polymorphism.md) 
 
 💡 **Tip:** Har file me apna humor + analogy maintain karo, taaki repo ka signature style bana rahe.
