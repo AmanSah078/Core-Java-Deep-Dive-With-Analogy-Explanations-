@@ -3,11 +3,6 @@ Hey I hope ur good
 Don't Worry 
 # Polymorphism Notes
 
-- [Method Overloading](Overloading.md)
-- [Method Overriding](Overriding.md)
-- [Method Hiding](MethodHiding.md)
-- [Runtime Polymorphism](RuntimePolymorphism.md)
-
 
 1.Let's Try to understand 1st Polymorphism means ?
                 It make from two words Poly-Multiple
@@ -18,7 +13,7 @@ Don't Worry
   
 2.And also u think but how i can Develop Polymorphism 
 Ans-So We can develop the Polymorphism in Two Ways:-🤔
-1.By Using Method Overidding
+1.By Using Method Overriding
 2.By Using Method Overloading
                               ****Let's Try to Understand One by One****
    
